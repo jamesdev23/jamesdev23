@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesdev23
-- 👀 I’m interested in coding utility apps for both PC, web and mobile phones. Also, AI and Machine Learning
-- 🌱 I’m currently learning Mobile App Development and Supervised Machine Learning
+- 👀 I’m interested in coding apps for mobile, web and desktop.
+- 🌱 I’m currently learning Node and Express.
 - 💞️ I’m looking to collaborate on anyone. Just send me an e-mail.
 - 📫 How to reach me: at FB & email
 
