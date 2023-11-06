@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesdev23
 - 👀 I’m interested in developing mobile and desktop apps.
-- 🌱 I’m currently learning C# and Compose Desktop.
+- 🌱 I’m currently learning C#, Python, Machine Learning and KMM.
 - 💞️ I’m looking to collaborate on anyone. Just send me an e-mail.
 - 📫 How to reach me: at FB & email
 
