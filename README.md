@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on anyone. Just send me an e-mail.
 - 📫 How to reach me: at FB & email
 
-Expertise:
-Mobile Dev.: Kotlin, Java, Dart, SQLite, Android, Retrofit, Jetpack Compose
-AI/Soft Dev.: Python, C#
+- Expertise:
+- Mobile Dev.: Kotlin, Java, Dart, SQLite, Android, Retrofit, Jetpack Compose
+- AI/Soft Dev.: Python, C#
 
 
 <!---
