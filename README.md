@@ -6,6 +6,7 @@
 
 Expertise:
 Mobile Dev.: Kotlin, Java, Dart, SQLite, Android, Retrofit, Jetpack Compose
+AI/Soft Dev.: Python, C#
 
 
 <!---
