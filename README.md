@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: none. Working on personal and side projects.
 - 💞️ I’m looking to collaborate on anyone. Just send me an e-mail.
 - 📫 How to reach me: at FB & email
-- Mobile Dev.: Kotlin, Java, Dart, SQLite, Android, Retrofit, Jetpack Compose
+- Mobile Dev.: Kotlin, Java, SQLite, Android, Retrofit, Jetpack Compose
 
 <!---
 jamesdev23/jamesdev23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
