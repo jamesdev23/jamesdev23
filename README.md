@@ -2,7 +2,7 @@
 - 👀 I’m interested in web/desktop/mobile apps.
 - 🌱 I’m currently learning: none. Working on personal and side projects.
 - 💞️ I’m looking to collaborate on anyone. Just send me an e-mail.
-- 📫 How to reach me: at FB & email
+- 📫 How to reach me: mostly email and website - jnrdev.xyz (site work in progress)
 - Mobile Dev.: Kotlin, Java, SQLite, Android, Retrofit, Jetpack Compose
 
 <!---
