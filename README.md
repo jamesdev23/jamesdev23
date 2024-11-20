@@ -5,6 +5,8 @@
 - 📫 How to reach me: jnrdevappdev@gmail.com
 - Mobile Dev.: Kotlin, Java, SQLite, Android, Retrofit, Jetpack Compose
 
+[![jamesdev23's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesdev23)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 jamesdev23/jamesdev23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
